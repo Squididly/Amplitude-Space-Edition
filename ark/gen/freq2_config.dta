@@ -6383,7 +6383,7 @@
             ([97 65] 'freestyle_effects_bus' 1)
             ([98 65] 'remix_effects_bus' 2)
             ([99 65] 'remix_effects_name' 'REMIX_FX_DELAY')
-            ([101 65] 'duel_track_order' 6 3 5 3 5 5 3 5 5)
+            ([101 65] 'duel_track_order' 6 4 5 4 1 6 4 5 4)
             (
                [103 65]
                'duel_patterns'
